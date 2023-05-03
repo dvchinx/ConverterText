@@ -7,4 +7,4 @@
 
 `dvchinx`
 
-![ScreenShot](https://github.com/dvchinx/ConverterText/blob/master/img.jpg)
+![ScreenShot](https://github.com/dvchinx/ConverterText/blob/master/src/Principal/img.jpg)
